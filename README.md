@@ -1,4 +1,5 @@
-# HP-Elitebook-840-G7-Sequoia-
+# HP-Elitebook-840-G7-Sequoia-Hackintosh
+
 Hackintosh EFI for HP Elitebook 840 G7 
 
 
